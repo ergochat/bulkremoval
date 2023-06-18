@@ -17,7 +17,7 @@ export IRCEVENT_USE_PLAINTEXT="true"
 export IRCEVENT_OPER_NAME="root"
 export IRCEVENT_OPER_PASSWORD="shivarampassphrase"
 # NUH glob to match (this is currently case-sensitive)
-export IRCEVENT_GLOB="netcat!*@*"
+export IRCEVENT_GLOB='netcat!*@*'
 # time at which to start examining messages, in YYYY-MM-DDThh:mm:ss.sssZ format:
 export IRCEVENT_START_TIME="2022-05-03T22:09:02.160Z"
 ```
